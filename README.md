@@ -1,4 +1,4 @@
-# 🍽️ RoyalFeast - AI Food Ordering Chatbot
+# 🍽️ Bitebot - AI Food Ordering Chatbot
 
 RoyalFeast is an AI-powered food ordering chatbot that allows users to browse the menu, place orders, remove items, view their cart, confirm orders, and track deliveries using natural language conversations.
 
