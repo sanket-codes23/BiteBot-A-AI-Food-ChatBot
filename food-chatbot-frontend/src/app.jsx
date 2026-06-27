@@ -13,19 +13,19 @@ function App() {
 
         <>
 
-            <navbar/>
+            <Navbar/>
 
-            <hero/>
+            <Hero/>
 
-            <populardishes/>
+            <PopularDishes/>
 
-            <features/>
+            <Features/>
 
             
 
-            <footer/>
+            <Footer/>
 
-            <chatbot/>
+            <Chatbot/>
 
         </>
 
