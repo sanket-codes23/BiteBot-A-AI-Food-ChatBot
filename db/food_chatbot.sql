@@ -1,8 +1,4 @@
-DROP DATABASE IF EXISTS food_chatbot;
 
-CREATE DATABASE food_chatbot;
-
-USE food_chatbot;
 
 -- =====================================================
 -- TABLE: categories

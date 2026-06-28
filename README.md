@@ -15,6 +15,7 @@ RoyalFeast is an AI-powered food ordering chatbot that allows users to browse th
 - ⚡ FastAPI backend
 - 🗄️ MySQL database integration
 
+
 ---
 
 ## 🛠️ Tech Stack
