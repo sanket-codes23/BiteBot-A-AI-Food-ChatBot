@@ -78,7 +78,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots after deployment.)
+
 
 ---
 
